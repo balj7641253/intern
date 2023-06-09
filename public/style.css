@@ -1,0 +1,114 @@
+.h4-sc{
+    color:grey;
+
+}
+.p-sc-price{
+    color: black;
+}
+/* .hau{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left:200px ;
+} */
+.strike-div{
+    display: flex;
+    flex-direction: row;
+}
+.scroll-in{
+    margin-left: 20px;
+    padding: 10px 10px;
+}
+.str{
+    max-width: 100%;
+    display: flex;
+    /* margin-left: 100px; */
+    padding-left: 100px;
+    overflow-y: scroll;
+    height:400px;
+    /* justify-content: space-evenly; */
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height:400px;
+    
+}
+.str p{
+    margin-left: 30px;
+    padding: 15px 15px;
+}
+
+.cards p{
+    margin-left: 20px;
+    padding: 10px 10px;
+    
+}
+h1{
+    margin:30px 50px;
+    position: relative;
+    left: 300px;
+    padding: 0px;
+    
+}
+.cards-in p{
+    margin-left: 20px;
+    padding: 15px 55px;
+    margin: 10px 10px;
+    background-color: #c77dff;
+    
+}
+.str button{
+   
+    margin: 10px 10px;
+}
+.con-head-str{
+padding-left: 10px;
+padding-right: 35px;
+background-color: #c77dff;
+border: 2px solid #5a189a;
+
+}
+.con-head{
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    background-color: #a2d2ff;
+
+
+  
+    
+}
+.but-card{
+    border: 2px solid black;
+    padding: 5px 5px;
+}
+
+
+
+.cards{
+    
+    display: flex;
+    justify-content: space-between;
+    /* max-width: 50%; */
+    margin: 5px 0px;
+    border-bottom: 2px solid yellow;
+    background-color: #f0f3bd;
+}
+
+.inp-hed{
+    margin:25px;
+    border: solid 2px black;
+    padding: 10px 10px;
+}
+.con-sc{
+    display: inline-block;
+    justify-content:space-between ;
+    /* padding: 10px 10px; */
+    margin: 10px 10px;
+}
+.p-sc-change{
+    margin-left: 10px;
+}
+.inner-p-sc{
+    display: flex;
+    justify-content: space-between;
+    
+}
